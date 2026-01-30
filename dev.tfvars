@@ -1,4 +1,4 @@
-Copyaws_region = "us-east-1"
+aws_region = "us-east-1"
 aws_account_id = "131677314444"
 vpc_name       = "eks-vpc"
 vpc_cidr       = "192.168.0.0/16"
